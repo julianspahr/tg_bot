@@ -37,7 +37,7 @@ void echoBack(const Message message, const Api& api) {
 }
 
 int main() {
-	LongPollBot bot("461916870:AAF4LbTNzlIEnX53Rtd7Nr5yMie3t_v_ruY");
+	LongPollBot bot("TOKEN");
 
 	fd = open(myfifo, O_RDONLY);
 
