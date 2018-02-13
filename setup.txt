@@ -1,0 +1,10 @@
+C:\Julian\Projects\D0215432_Hercules\navb_tb\tg_bot\src\telegram-bot-api\include
+C:\Julian\Projects\D0215432_Hercules\navb_tb\tg_bot\src\jsoncpp\include
+
+-l
+boost_system
+curl
+boost_iostreams
+ssl
+crypto
+pthread
